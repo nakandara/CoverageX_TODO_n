@@ -21,7 +21,7 @@
    ```bash
    cd backend
    npm install
-   node index.js
+   npm run dev
    ```
    (Server runs on http://localhost:5000)
 
